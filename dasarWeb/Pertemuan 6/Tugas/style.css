@@ -1,0 +1,38 @@
+#kotak2,
+#flip {
+  padding: 5px;
+  text-align: center;
+  /* border: solid 2px #9e0059; */
+  border-radius: 5px;
+}
+
+#flip {
+  background-color: #397aff;
+}
+
+#kotak2 {
+  padding: 0;
+}
+
+table {
+  margin: 0;
+  width: 100%;
+  /* border: 1px solid #ff0054; */
+}
+
+#header {
+  background-color: #f8d846;
+}
+
+#content {
+  /* background-color: #1064da; */
+}
+
+#flip :hover {
+  background-color: #ff3d9a;
+}
+
+#rata {
+  /* width: 100%; */
+  background-color: #ff3d9a;
+}
